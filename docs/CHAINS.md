@@ -46,7 +46,7 @@ These are contracts that are created/deployed once for optimism mainnet
 
 ## Arbitrum One Mainnet
 
-These are contracts that are created/deployed once for goerli
+These are contracts that are created/deployed once for arbitrum one mainnet
 
 | Contract                              | Address                                    |
 |---------------------------------------|--------------------------------------------|
